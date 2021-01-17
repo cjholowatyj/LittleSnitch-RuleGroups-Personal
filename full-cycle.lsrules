@@ -183,6 +183,7 @@
     {"action":"allow","creationDate":1565899918.7080669,"direction":"outgoing","modificationDate":1565899918.7080669,"owner":"system","process":"/Users/cjholowatyj/Dev/themes/pixelarity/pix102/.git/hooks/full-cycle.sh","notes":"Enable full-cycle.sh to operate without interruption","remote":"any"},
     {"action":"allow","creationDate":1565899918.7080669,"direction":"outgoing","modificationDate":1565899918.7080669,"owner":"system","process":"/Users/cjholowatyj/Dev/themes/pixelarity/pix103/.git/hooks/full-cycle.sh","notes":"Enable full-cycle.sh to operate without interruption","remote":"any"},
     {"action":"allow","creationDate":1565899918.7080669,"direction":"outgoing","modificationDate":1565899918.7080669,"owner":"system","process":"/Users/cjholowatyj/Dev/themes/pixelarity/pix104/.git/hooks/full-cycle.sh","notes":"Enable full-cycle.sh to operate without interruption","remote":"any"},
-    {"action":"allow","creationDate":1565899918.7080669,"direction":"outgoing","modificationDate":1565899918.7080669,"owner":"system","process":"/Users/cjholowatyj/Dev/themes/tabler/tab001/.git/hooks/full-cycle.sh","notes":"Enable full-cycle.sh to operate without interruption","remote":"any"}
+    {"action":"allow","creationDate":1565899918.7080669,"direction":"outgoing","modificationDate":1565899918.7080669,"owner":"system","process":"/Users/cjholowatyj/Dev/themes/tabler/tab001/.git/hooks/full-cycle.sh","notes":"Enable full-cycle.sh to operate without interruption","remote":"any"},
+    {"action":"allow","creationDate":1565899918.7080669,"direction":"outgoing","modificationDate":1565899918.7080669,"owner":"system","process":"/Users/cjholowatyj/Dev/composer.phar","notes":"Enable composer.phar to operate without interruption","remote":"any"}
   ]
 }
